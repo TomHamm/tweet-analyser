@@ -26,6 +26,7 @@ You need to have the following installed:
 
 - [Java 8](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
 - [PostgreSQL](https://www.postgresql.org/download/)
+- [Maven](https://maven.apache.org/download.cgi)
 
 
 
