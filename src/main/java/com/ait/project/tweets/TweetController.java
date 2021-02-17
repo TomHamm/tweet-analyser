@@ -17,10 +17,10 @@ import java.util.List;
 @RequestMapping(path = "api/v1/tweets")
 public class TweetController {
 
-    private static final String CONSUMER_KEY = "QKewAgdZH3fjbZ9Tq2kZtWuKY";
-    private static final String CONSUMER_SECRET = "5fvnQPS2NWAneFKGVH56bo66Ls7YN6mIevSHu9EyRwaeTtGaQw";
-    private static final String ACCESS_TOKEN = "1351855182745907207-zffQPS2vgscmqRg1KJSA7yJ4MGuoMc";
-    private static final String ACCESS_TOKEN_SECRET = "rs6cQlfizz3rtbMlLBFrAIpkCeUJTEWJz6kIjcQRFk7F7";
+    private static final String CONSUMER_KEY = "YOUR_CONSUMER_KEY";
+    private static final String CONSUMER_SECRET = "YOUR_CONSUMER_SECRET";
+    private static final String ACCESS_TOKEN = "YOUR_ACCESS_TOKEN";
+    private static final String ACCESS_TOKEN_SECRET = "YOUR_ACCESS_TOKEN_SECRET";
 
     private final TweetService tweetService;
 
