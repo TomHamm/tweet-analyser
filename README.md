@@ -4,7 +4,7 @@
 
 A Restful API that retrieves 'covid' related Tweets every 15 minutes from the Twitter API.
 
-Tweets retrieved are parsed, stored into Tweet objects and persisted into a Postgres Database.
+Tweets retrieved are parsed, stored in Tweet objects and persisted to a Postgres Database.
 
 Tweets are then exposed via a GET endpoint - http://localhost:8080/api/v1/tweets
 
