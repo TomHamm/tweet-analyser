@@ -28,6 +28,11 @@ You need to have the following installed:
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Maven](https://maven.apache.org/download.cgi)
 
+## Run
+
+- mvn clean install
+- Start the Spring Application
+
 
 
 
