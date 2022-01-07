@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Restful API that retrieves specific related Tweets every 15 minutes from the Twitter API.
+A Restful API that retrieves specific topic related Tweets every 15 minutes from the Twitter API.
 
 Tweets retrieved are parsed, stored in Tweet objects and persisted to a Postgres Database.
 
