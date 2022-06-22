@@ -8,7 +8,7 @@ Tweets retrieved are parsed, stored in Tweet objects and persisted to a Postgres
 
 Tweets are then exposed via a GET endpoint - http://localhost:8080/api/v1/tweets
 
-![alt text](project_architecture.JPG)
+![alt text](project_architecture.jpg)
 
 ## Setup
 
